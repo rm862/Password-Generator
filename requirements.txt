@@ -1,0 +1,3 @@
+- uses built-in tkinter
+# Python 3.6+ required
+pyperclip>=1.8.0
